@@ -1,0 +1,2 @@
+D:\C# VS\BasicCommands\bin\Release\net9.0\win-x64\publish\BasicCommands.pdb
+D:\C# VS\BasicCommands\bin\Release\net9.0\win-x64\publish\BasicCommands.exe

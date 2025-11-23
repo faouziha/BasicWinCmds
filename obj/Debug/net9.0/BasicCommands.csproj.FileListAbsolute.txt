@@ -1,0 +1,14 @@
+D:\C# VS\BasicCommands\bin\Debug\net9.0\BasicCommands.exe
+D:\C# VS\BasicCommands\bin\Debug\net9.0\BasicCommands.deps.json
+D:\C# VS\BasicCommands\bin\Debug\net9.0\BasicCommands.runtimeconfig.json
+D:\C# VS\BasicCommands\bin\Debug\net9.0\BasicCommands.dll
+D:\C# VS\BasicCommands\bin\Debug\net9.0\BasicCommands.pdb
+D:\C# VS\BasicCommands\obj\Debug\net9.0\BasicCommands.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# VS\BasicCommands\obj\Debug\net9.0\BasicCommands.AssemblyInfoInputs.cache
+D:\C# VS\BasicCommands\obj\Debug\net9.0\BasicCommands.AssemblyInfo.cs
+D:\C# VS\BasicCommands\obj\Debug\net9.0\BasicCommands.csproj.CoreCompileInputs.cache
+D:\C# VS\BasicCommands\obj\Debug\net9.0\BasicCommands.dll
+D:\C# VS\BasicCommands\obj\Debug\net9.0\refint\BasicCommands.dll
+D:\C# VS\BasicCommands\obj\Debug\net9.0\BasicCommands.pdb
+D:\C# VS\BasicCommands\obj\Debug\net9.0\BasicCommands.genruntimeconfig.cache
+D:\C# VS\BasicCommands\obj\Debug\net9.0\ref\BasicCommands.dll
