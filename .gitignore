@@ -1,0 +1,10 @@
+# Build output directories
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+
+# Visual Studio files
+.vs/
+*.user
