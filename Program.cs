@@ -83,6 +83,7 @@ public class Program
 5) Running Processes
 6) Terminate Process
 7) Systeminfo
+8) Battery infos/status
 
 0) exit";
                     Console.WriteLine(list);
@@ -137,6 +138,10 @@ public class Program
                             break;
                         case "7":
                             Basic.BasicWinCmds("systeminfo");
+                            isRunning = PostExecutionMenu();
+                            break;
+                        case "8":
+                            Basic.BasicWinCmds("powercfg /batteryreport");
                             isRunning = PostExecutionMenu();
                             break;
                         case "0":
